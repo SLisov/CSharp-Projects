@@ -1,0 +1,16 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\bin\Debug\net8.0\DiceRollGameToBeTested.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\bin\Debug\net8.0\DiceRollGameToBeTested.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\bin\Debug\net8.0\DiceRollGameToBeTested.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\bin\Debug\net8.0\DiceRollGameToBeTested.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\bin\Debug\net8.0\DiceRollGameToBeTested.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.Resource.resources
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.csproj.GenerateResource.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\refint\DiceRollGameToBeTested.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\DiceRollGameToBeTested.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\DiceRollGameToBeTested\obj\Debug\net8.0\ref\DiceRollGameToBeTested.dll

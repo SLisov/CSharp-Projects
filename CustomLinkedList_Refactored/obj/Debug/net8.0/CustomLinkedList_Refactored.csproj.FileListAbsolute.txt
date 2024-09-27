@@ -1,0 +1,14 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\bin\Debug\net8.0\CustomLinkedList_Refactored.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\bin\Debug\net8.0\CustomLinkedList_Refactored.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\bin\Debug\net8.0\CustomLinkedList_Refactored.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\bin\Debug\net8.0\CustomLinkedList_Refactored.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\bin\Debug\net8.0\CustomLinkedList_Refactored.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\refint\CustomLinkedList_Refactored.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\CustomLinkedList_Refactored.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\CustomLinkedList_Refactored\obj\Debug\net8.0\ref\CustomLinkedList_Refactored.dll

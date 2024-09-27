@@ -1,0 +1,11 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\bin\Debug\net8.0\FibonacciProjectForUnitTesting.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\bin\Debug\net8.0\FibonacciProjectForUnitTesting.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\bin\Debug\net8.0\FibonacciProjectForUnitTesting.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\FibonacciProjectForUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\FibonacciProjectForUnitTesting.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\FibonacciProjectForUnitTesting.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\FibonacciProjectForUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\FibonacciProjectForUnitTesting.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\refint\FibonacciProjectForUnitTesting.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\FibonacciProjectForUnitTesting.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\FibonacciProjectForUnitTesting\obj\Debug\net8.0\ref\FibonacciProjectForUnitTesting.dll

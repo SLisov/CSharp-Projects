@@ -1,0 +1,11 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\bin\Debug\net8.0\UnitTesting.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\bin\Debug\net8.0\UnitTesting.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\bin\Debug\net8.0\UnitTesting.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\UnitTesting.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\refint\UnitTesting.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\UnitTesting.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\UnitTesting\obj\Debug\net8.0\ref\UnitTesting.dll

@@ -1,0 +1,14 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\bin\Debug\net8.0\Dice_Roll_Game.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\bin\Debug\net8.0\Dice_Roll_Game.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\bin\Debug\net8.0\Dice_Roll_Game.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\bin\Debug\net8.0\Dice_Roll_Game.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\bin\Debug\net8.0\Dice_Roll_Game.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\refint\Dice_Roll_Game.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\Dice_Roll_Game.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Dice_Roll_Game\obj\Debug\net8.0\ref\Dice_Roll_Game.dll

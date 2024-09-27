@@ -1,0 +1,14 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\bin\Debug\net8.0\StarWarsPlanetsStats.Refactored.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\bin\Debug\net8.0\StarWarsPlanetsStats.Refactored.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\bin\Debug\net8.0\StarWarsPlanetsStats.Refactored.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\bin\Debug\net8.0\StarWarsPlanetsStats.Refactored.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\bin\Debug\net8.0\StarWarsPlanetsStats.Refactored.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\refint\StarWarsPlanetsStats.Refactored.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\StarWarsPlanetsStats.Refactored.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats.Refactored\obj\Debug\net8.0\ref\StarWarsPlanetsStats.Refactored.dll

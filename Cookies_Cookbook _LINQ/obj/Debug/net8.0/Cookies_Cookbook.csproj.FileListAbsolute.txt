@@ -1,0 +1,14 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\bin\Debug\net8.0\Cookies_Cookbook.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\bin\Debug\net8.0\Cookies_Cookbook.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\bin\Debug\net8.0\Cookies_Cookbook.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\bin\Debug\net8.0\Cookies_Cookbook.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\bin\Debug\net8.0\Cookies_Cookbook.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\refint\Cookies_Cookbook.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\Cookies_Cookbook\obj\Debug\net8.0\ref\Cookies_Cookbook.dll

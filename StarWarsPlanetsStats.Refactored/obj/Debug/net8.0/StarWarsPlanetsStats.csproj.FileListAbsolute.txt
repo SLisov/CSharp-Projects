@@ -1,0 +1,14 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\refint\StarWarsPlanetsStats.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\StarWarsPlanetsStats\obj\Debug\net8.0\ref\StarWarsPlanetsStats.dll

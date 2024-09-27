@@ -1,0 +1,16 @@
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\bin\Debug\net8.0-windows\NumericTypesSuggester.exe
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\bin\Debug\net8.0-windows\NumericTypesSuggester.deps.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\bin\Debug\net8.0-windows\NumericTypesSuggester.runtimeconfig.json
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\bin\Debug\net8.0-windows\NumericTypesSuggester.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\bin\Debug\net8.0-windows\NumericTypesSuggester.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.csproj.GenerateResource.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.AssemblyInfoInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.AssemblyInfo.cs
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.csproj.CoreCompileInputs.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\refint\NumericTypesSuggester.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.pdb
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.genruntimeconfig.cache
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\ref\NumericTypesSuggester.dll
+C:\Users\Staslisov\Desktop\Game Dev\C# Learning Projects and etc\MyProjects\NumericTypesSuggester\obj\Debug\net8.0-windows\NumericTypesSuggester.MainForm.resources
