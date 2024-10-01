@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Egzamin_lisovskyi_55106_Program_5/1.0.0": {
+        "runtime": {
+          "Egzamin_lisovskyi_55106_Program_5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Egzamin_lisovskyi_55106_Program_5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

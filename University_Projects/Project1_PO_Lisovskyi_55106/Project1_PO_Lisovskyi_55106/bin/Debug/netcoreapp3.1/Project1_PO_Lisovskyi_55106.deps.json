@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Project1_PO_Lisovskyi_55106/1.0.0": {
+        "runtime": {
+          "Project1_PO_Lisovskyi_55106.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project1_PO_Lisovskyi_55106/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

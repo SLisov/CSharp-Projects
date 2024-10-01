@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_MiniPaint_Lisovskyi_55106", "Project_MiniPaint_Lisovskyi_55106\Project_MiniPaint_Lisovskyi_55106.csproj", "{E1445F50-5A5F-4D40-9F3A-1FF9241B6ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1445F50-5A5F-4D40-9F3A-1FF9241B6ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1445F50-5A5F-4D40-9F3A-1FF9241B6ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1445F50-5A5F-4D40-9F3A-1FF9241B6ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1445F50-5A5F-4D40-9F3A-1FF9241B6ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DF5CE9-8EC8-4ACB-AF39-38CC995D0655}
+	EndGlobalSection
+EndGlobal

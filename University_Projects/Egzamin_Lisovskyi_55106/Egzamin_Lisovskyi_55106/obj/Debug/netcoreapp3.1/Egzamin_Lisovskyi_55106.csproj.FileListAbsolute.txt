@@ -1,0 +1,26 @@
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.exe
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.deps.json
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.runtimeconfig.json
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.runtimeconfig.dev.json
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.dll
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.pdb
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.csprojAssemblyReference.cache
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.AssemblyInfoInputs.cache
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.AssemblyInfo.cs
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.dll
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.pdb
+C:\Users\Stas\source\repos\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.genruntimeconfig.cache
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.exe
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.deps.json
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.runtimeconfig.json
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.runtimeconfig.dev.json
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.dll
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\bin\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.pdb
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.csprojAssemblyReference.cache
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.AssemblyInfoInputs.cache
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.AssemblyInfo.cs
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.dll
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.pdb
+C:\Users\Stas\Desktop\Studing\1 rok\Programowanie obiektowe\Egzamin_Lisovskyi_55106_programs\Egzamin_Lisovskyi_55106\Egzamin_Lisovskyi_55106\obj\Debug\netcoreapp3.1\Egzamin_Lisovskyi_55106.genruntimeconfig.cache

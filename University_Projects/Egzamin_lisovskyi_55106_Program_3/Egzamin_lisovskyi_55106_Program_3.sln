@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egzamin_lisovskyi_55106_Program_3", "Egzamin_lisovskyi_55106_Program_3\Egzamin_lisovskyi_55106_Program_3.csproj", "{C7E1AEFA-34E9-4201-85BE-6F6BCF5F3F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E1AEFA-34E9-4201-85BE-6F6BCF5F3F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E1AEFA-34E9-4201-85BE-6F6BCF5F3F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E1AEFA-34E9-4201-85BE-6F6BCF5F3F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E1AEFA-34E9-4201-85BE-6F6BCF5F3F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42478D12-E8F4-4614-AEEA-DE7CCACD49CB}
+	EndGlobalSection
+EndGlobal

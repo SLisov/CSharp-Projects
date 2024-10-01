@@ -1,0 +1,10 @@
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projekt1_Lisovskyi55106.csproj.AssemblyReference.cache
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projeckt_1.Properties.Resources.resources
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projekt1_Lisovskyi55106.csproj.GenerateResource.cache
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projekt1_Lisovskyi55106.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projeckt 1.exe
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projeckt 1.pdb
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\bin\Debug\Projeckt 1.exe.config
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\bin\Debug\Projeckt 1.exe
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\bin\Debug\Projeckt 1.pdb
+C:\Users\Stas\Desktop\Studing\2 rok\Algorytmy i złożoność\Projects\Projeckt 1\Projeckt 1\obj\Debug\Projekt1_Lisovskyi55106.Projekt1_LisovskyiStanislav55106.resources
